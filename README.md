@@ -163,4 +163,4 @@ module.exports = config;
 
 ```
 
-代码已上传github，可点击下载调试。
+代码已上传github，可点击[下载](https://github.com/PLDaily/ESLint-webapck)调试。

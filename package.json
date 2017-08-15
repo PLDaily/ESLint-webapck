@@ -1,0 +1,28 @@
+{
+  "name": "eslint-webpack",
+  "version": "1.0.0",
+  "description": "A simple example of using ESLint & webpack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ext \".js, .vue\" src test --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLDaily/ESLint-webapck.git"
+  },
+  "author": "PLDaily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLDaily/ESLint-webapck/issues"
+  },
+  "homepage": "https://github.com/PLDaily/ESLint-webapck#readme",
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-loader": "^1.9.0",
+    "webpack": "^3.5.4",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-plugin-html": "^3.2.0",
+    "standard": "^10.0.3"
+  }
+}
